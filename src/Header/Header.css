@@ -1,0 +1,13 @@
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 50px;
+    border-bottom: 1px solid rgb(190, 190, 190);
+}
+
+.header-container img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}

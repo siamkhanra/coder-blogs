@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "author_name": "Raju Ahmed",
+        "blog_title": "Selling Laptop With Best Performance",
+        "author_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWbdgnkrHhf1BHYuwj3whOFIKhtXBTUouW6w&usqp=CAU",
+        "cover_image": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dGVjaG5vbG9neXxlbnwwfHwwfHx8MA%3D%3D",
+        "read_time": 5,
+        "publish_date": "Mar 14 (4 days ago)"
+    },
+    {
+        "id": "2",
+        "author_name": "Safin Rahman",
+        "blog_title": "Mobile Services and Product Selling",
+        "author_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmgomoKCvcuLUrIs7XgfurpkPCssd1Kfxj6g&usqp=CAU",
+        "cover_image": "https://plus.unsplash.com/premium_photo-1679079456083-9f288e224e96?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8dGVjaG5vbG9neXxlbnwwfHwwfHx8MA%3D%3D",
+        "read_time": 10,
+        "publish_date": "Mar 16 (4 days ago)"
+    },
+    {
+        "id": "3",
+        "author_name": "Sujon Shah",
+        "blog_title": "Technology Updated Software For Best Performance",
+        "author_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfADk0v4wIbRyhZ76Tzl_dZF4NXCeXkcTXeg&usqp=CAU",
+        "cover_image": "https://images.unsplash.com/photo-1496065187959-7f07b8353c55?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHRlY2hub2xvZ3l8ZW58MHx8MHx8fDA%3D",
+        "read_time": 12,
+        "publish_date": "Mar 12 (4 days ago)"
+    },
+    {
+        "id": "4",
+        "author_name": "Amir Ali",
+        "blog_title": "Network Problem Solving Best Routers",
+        "author_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ78fD3cGKjj_f-clPJsZFXevgVdpHSe-NvkA&usqp=CAU",
+        "cover_image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHRlY2hub2xvZ3l8ZW58MHx8MHx8fDA%3D",
+        "read_time": 15,
+        "publish_date": "Mar 10 (4 days ago)"
+    },
+    {
+        "id": "5",
+        "author_name": "Kabir Rahman",
+        "blog_title": "Coding Software For Best Coder",
+        "author_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmrZowzidk-DlwdRHffIFo0LwBhip4R1A7kQ&usqp=CAU",
+        "cover_image": "https://images.unsplash.com/photo-1504384764586-bb4cdc1707b0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDV8fHRlY2hub2xvZ3l8ZW58MHx8MHx8fDA%3D",
+        "read_time": 10,
+        "publish_date": "Mar 18 (4 days ago)"
+    },
+    {
+        "id": "6",
+        "author_name": "Tasrif Khan",
+        "blog_title": "Relatable Products For Wi-Fi Users",
+        "author_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjcYigktyfAusA9tmKezsQ5zPhI6G11IS_PQ&usqp=CAU",
+        "cover_image": "https://plus.unsplash.com/premium_photo-1661727547850-3d7c020a64a8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzZ8fHRlY2hub2xvZ3l8ZW58MHx8MHx8fDA%3D",
+        "read_time": 8,
+        "publish_date": "Mar 17 (4 days ago)"
+    }
+]

@@ -1,0 +1,36 @@
+.mark-container{
+    position: sticky;
+    top: 0;
+}
+
+.spent-time{
+    border: 1px solid #6047EC;
+    background: rgba(96, 71, 236, 0.10);
+    margin: 0;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 50px;
+    color: #6047EC;
+    font-size: 24px;
+    text-align: center;
+}
+
+.bookmark-container{
+    border-radius: 8px;
+    background: rgba(17, 17, 17, 0.05);
+    padding: 10px;
+    margin-top: 10px;
+    margin-right: 50px;
+}
+
+.blog-bookmark{
+    border-radius: 8px;
+    background: #FFF;
+    padding: 13px;
+    margin-top: 10px;
+}
+
+.added-blogs ul{
+    padding-left: 0;
+}
